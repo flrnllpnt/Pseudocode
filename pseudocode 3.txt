@@ -1,0 +1,24 @@
+Diketahui terdapat sebuah trapesium dengan panjang sisi
+sebagai berikut.
+AB 25
+BC 15
+CD 20
+DA 15
+tinggi 10
+
+algoritma hitung luas trapesium tersebut?
+Algoritma:
+Step 1 Mendeklarasikan luas, ab, cd, dan tinggi
+Step 2 Masukkan ab = 25, cd = 15, tinggi = 10
+Step 3 Menghitung luas = 1/2 * ab * cd * t
+Step 4 Menampilkan luas
+
+Pseudocode:
+deklarasi
+var luas, ab, cd, tinggi
+ab <– 25
+cd <– 15
+t <– 10
+luas <– 1/2 * ab * cd * t
+write (luas)
+
